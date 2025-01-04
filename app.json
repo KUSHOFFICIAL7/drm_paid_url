@@ -9,24 +9,24 @@
     "repository": "",
     "env": {
       "BOT_TOKEN": {
-        "description": "6418802023:AAGBpFtOihuv5ffaVF_l7GqkxrrMOAGD0cA",
+        "description": "7584130369:AAFfq-8bQ69rtVWdnpy-KuLQw6l7T4cN5_4",
         "value": ""
       },
       "API_ID": {
-        "description": "23480585",
-        "value": "23480585"
+        "description": "20491966",
+        "value": "20491966"
       },
       "API_HASH": {
-        "description": "23af64c0a4ba8c1f0c04e9be07d0ba68",
-        "value": "23af64c0a4ba8c1f0c04e9be07d0ba68"
+        "description": "aa1c8f86db7f78fe9bfdd77bb48a5b23",
+        "value": "aa1c8f86db7f78fe9bfdd77bb48a5b23"
       },
       "OWNER_ID": {
-        "description": "7306229091",
-        "value": "6748451207",
+        "description": "7168441486",
+        "value": "7168441486",
         "required": true
       },
       "DATABASE_NAME": {
-        "description": "mewadonlinestudys",
+        "description": "siisuehebot",
         "value": "drmbot",
         "required": false
       },
@@ -36,8 +36,8 @@
         "required": true
       },
       "LOG_CHANNEL": {
-        "description": "-1002163136973",
-        "value": "-1001529584600"
+        "description": "-1002483842225",
+        "value": "-1002483842225"
       }
     },
     "addons": [],
